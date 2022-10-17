@@ -1,0 +1,26 @@
+CopyPasteCoords v1.1
+
+
+*************************
+
+This script gives the ability to copy/paste object's coordinates into the formatted line, like this one:
+-52.9988, -22.1185, 146.061
+
+UPD v1.1: Added "Undo" button, plus some minor tweaks.
+
+Specs: 3ds Max 9 or newer.
+
+
+*************************
+
+Данный скрипт позволяет копировать/вставлять координаты объекта, используя одну строчку следующего формата:
+-52.9988, -22.1185, 146.061
+
+UPD v1.1: Добавлена кнопка "Undo" для возврата предыдущих координат объекта, плюс мелкие улучшения скрипта.
+
+Требования: 3ds Max 9 или новее.
+
+
+*************************
+
+Made by Shagg_E, 2022
