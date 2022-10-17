@@ -1,0 +1,36 @@
+Delete Selection Sets v1.2
+
+
+*************************
+
+This script deletes all the Selections Sets in the scene in case they are making some troubles in your work.
+Progress bar and error catcher included.
+
+UPD v1.1: More useful info in the dialogue windows.
+Now you can delete selected amount of Selection Sets, in case you have troubles with "Delete ALL Selection Sets" option.
+
+UPD v1.2: Some minor tweaks.
+
+Specs: 3ds Max 9 or newer.
+
+
+*************************
+
+Иногда разные инструменты создают лишние Selection Sets в сцене, что мешает стабильной её работе.
+
+Данный скрипт удаляет все Selection Sets в сцене. Рассчитан на 3ds Max 9 и новее.
+
+Имеет несколько кнопок и прогресс-бар. После нажатия одной из кнопок удаления Selection Sets - показывает, сколько "увидел" Selection Sets в сцене и просит подтверждения операции. В процессе удаления макс может подвиснуть на пару секунд - это нормально для максскриптинга, в случае большого кол-ва объектов. Но вроде как удаляет всё без проблем. На всякий случай в скрипт встроен отлов багов, о количестве ошибок сообщается в конечном сообщении.
+Если у вас в виду использования каких-то инструментов постоянно создаются лишние Selection Sets - можете просто держать скрипт всегда включенным и нажимать удалялку при необходимости.
+
+UPD v1.1: Больше полезной информации в диалоговых окнах.
+Теперь можно удалить выбранное кол-во Selection Sets, на случай, если кнопка "Delete ALL Selection Sets" вызывает какие-либо проблемы.
+
+UPD v1.2: Мелкие улучшения.
+
+Требования: 3ds Max 9 или новее.
+
+
+*************************
+
+Made by Shagg_E, 2022
